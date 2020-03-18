@@ -9,7 +9,8 @@ function App() {
     lastName: "",
     email: "",
     password: "",
-    confirmPassword: ""
+    confirmPassword: "",
+    submit: false
   })
 
   return (
